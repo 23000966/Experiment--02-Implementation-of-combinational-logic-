@@ -38,8 +38,10 @@ NOT Gate: The NOT gate is a fundamental digital logic gate. It has a single inpu
 ## Program:
 /*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.   
-#Developed by: SANTHOSH KUMAR R
-#RegisterNumber: 23000966
+
+Developed by: SANTHOSH KUMAR R
+
+RegisterNumber: 23000966
 
 ![image](https://github.com/23000966/Experiment--02-Implementation-of-combinational-logic-/assets/153983364/706baa89-c55f-4ae3-a151-407a7f657df5)
 */
